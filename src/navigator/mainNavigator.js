@@ -7,7 +7,6 @@ import SideMenu from './sideMenu';
 //@BlueprintImportInsertion
 import Tutorial5114764Navigator from '../features/Tutorial5114764/navigator';
 import SignUp26114763Navigator from '../features/SignUp26114763/navigator';
-import SignIn43114761Navigator from '../features/SignIn43114761/navigator';
 import Tutorial4114759Navigator from '../features/Tutorial4114759/navigator';
 import SignUp25114758Navigator from '../features/SignUp25114758/navigator';
 import BlankScreen2114757Navigator from '../features/BlankScreen2114757/navigator';
@@ -23,7 +22,6 @@ const AppNavigator = {
     //@BlueprintNavigationInsertion
 Tutorial5114764: { screen: Tutorial5114764Navigator },
 SignUp26114763: { screen: SignUp26114763Navigator },
-SignIn43114761: { screen: SignIn43114761Navigator },
 Tutorial4114759: { screen: Tutorial4114759Navigator },
 SignUp25114758: { screen: SignUp25114758Navigator },
 BlankScreen2114757: { screen: BlankScreen2114757Navigator },
